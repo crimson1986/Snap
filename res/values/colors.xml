@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <drawable name="color_dashboard_back">#1F202D</drawable>
-    <color name="color_dashboard_back">#fff</color>
-	<color name="color_gallery_title">#FFFFFF</color>
-	<color name="color_text">#0695DB</color>
-	
-</resources>
